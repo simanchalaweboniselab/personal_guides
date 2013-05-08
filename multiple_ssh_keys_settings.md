@@ -45,7 +45,7 @@ Which should give you something like this:
 	# The key fingerprint is:
 	# 01:0f:f4:3b:ca:85:d6:17:a1:7d:f0:68:9d:f0:a2:db email@domain.com
 
-Step 4: Add Saved SSK keys
+Step 4: Add Saved SSH keys
 ---------------------------------
 After Step 3: two SSH keys created at `~/.ssh`:
 ```    
